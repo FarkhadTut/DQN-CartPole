@@ -1,0 +1,7 @@
+gym==0.17.2
+ipython==7.28.0
+matplotlib==3.2.2
+numpy==1.18.5
+Pillow==8.4.0
+torch==1.6.0
+torchvision==0.7.0
